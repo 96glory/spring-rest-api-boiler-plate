@@ -1,0 +1,5 @@
+httpUtil:
+  time:
+    connectionRequestTimeout: 10000
+    connectTimeout: 10000
+    socketTimeout: 10000
